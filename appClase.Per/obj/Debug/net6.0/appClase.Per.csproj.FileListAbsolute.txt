@@ -1,0 +1,17 @@
+/home/alexgarrido/Documentos/dotnet/proyectoClase/appClase/appClase.Per/obj/Debug/net6.0/appClase.Per.csproj.AssemblyReference.cache
+/home/alexgarrido/Documentos/dotnet/proyectoClase/appClase/appClase.Per/obj/Debug/net6.0/appClase.Per.GeneratedMSBuildEditorConfig.editorconfig
+/home/alexgarrido/Documentos/dotnet/proyectoClase/appClase/appClase.Per/obj/Debug/net6.0/appClase.Per.AssemblyInfoInputs.cache
+/home/alexgarrido/Documentos/dotnet/proyectoClase/appClase/appClase.Per/obj/Debug/net6.0/appClase.Per.AssemblyInfo.cs
+/home/alexgarrido/Documentos/dotnet/proyectoClase/appClase/appClase.Per/obj/Debug/net6.0/appClase.Per.csproj.CoreCompileInputs.cache
+/home/alexgarrido/Documentos/dotnet/proyectoClase/appClase/appClase.Per/bin/Debug/net6.0/appClase.Per.deps.json
+/home/alexgarrido/Documentos/dotnet/proyectoClase/appClase/appClase.Per/bin/Debug/net6.0/appClase.Per.runtimeconfig.json
+/home/alexgarrido/Documentos/dotnet/proyectoClase/appClase/appClase.Per/bin/Debug/net6.0/appClase.Per.dll
+/home/alexgarrido/Documentos/dotnet/proyectoClase/appClase/appClase.Per/bin/Debug/net6.0/appClase.Per.pdb
+/home/alexgarrido/Documentos/dotnet/proyectoClase/appClase/appClase.Per/bin/Debug/net6.0/appClase.Dom.dll
+/home/alexgarrido/Documentos/dotnet/proyectoClase/appClase/appClase.Per/bin/Debug/net6.0/appClase.Dom.pdb
+/home/alexgarrido/Documentos/dotnet/proyectoClase/appClase/appClase.Per/obj/Debug/net6.0/appClase.Per.csproj.CopyComplete
+/home/alexgarrido/Documentos/dotnet/proyectoClase/appClase/appClase.Per/obj/Debug/net6.0/appClase.Per.dll
+/home/alexgarrido/Documentos/dotnet/proyectoClase/appClase/appClase.Per/obj/Debug/net6.0/refint/appClase.Per.dll
+/home/alexgarrido/Documentos/dotnet/proyectoClase/appClase/appClase.Per/obj/Debug/net6.0/appClase.Per.pdb
+/home/alexgarrido/Documentos/dotnet/proyectoClase/appClase/appClase.Per/obj/Debug/net6.0/appClase.Per.genruntimeconfig.cache
+/home/alexgarrido/Documentos/dotnet/proyectoClase/appClase/appClase.Per/obj/Debug/net6.0/ref/appClase.Per.dll
